@@ -1,0 +1,23 @@
+{
+  "name": "nq2-admin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brajalal-Pal/nq2-admin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brajalal-Pal/nq2-admin/issues"
+  },
+  "homepage": "https://github.com/Brajalal-Pal/nq2-admin#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
